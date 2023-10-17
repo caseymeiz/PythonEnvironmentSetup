@@ -1,4 +1,4 @@
-# PythonEviromentSetup
+# PythonEnvironmentSetup
 
 ## Setup (Ubuntu)
 Install Python 3.11
